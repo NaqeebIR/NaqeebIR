@@ -1,94 +1,26 @@
-# 🌟 Naqeeb Irtaza Akash
+# 💫 About Me:
+👋 Hi, I’m Naqeeb Irtaza Akash, a passionate Software Engineer and a third-year CSE student at Uttara University. My interests lie in C++ programming, data science, and game development. I'm also exploring web development, creating applications like Telegram, and building innovative solutions.<br><br>✨ Currently working on:<br>Enhancing my C++ and C# skills.<br>Developing Porikromon, my Bengali magazine website.<br>Exploring e-commerce and Bangla blogging.<br><br>💡 Fun facts:<br>I enjoy reviewing anime and manga.<br>I'm a Bangla romantic novel enthusiast.<br>I'm dreaming of pursuing my master's at Tokyo Institute of Technology.<br><br>📫 Let’s connect and build something amazing together!
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=40&duration=3000&pause=1000&color=6B48FF&center=true&vCenter=true&width=940&multiline=true&repeat=false&random=false&height=130&lines=Hi+%F0%9F%91%8B+I'm+Naqeeb+Irtaza+Akash;%F0%9F%8E%AE+Game+Developer+%7C+%F0%9F%92%BB+Software+Engineer+%7C+%F0%9F%8E%A8+Creative+Coder" alt="Typing SVG" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=25&duration=2000&pause=1000&color=A177FE&center=true&vCenter=true&repeat=true&width=940&lines=Crafting+Digital+Experiences+with+C%2B%2B+and+Unreal+Engine;Building+the+Future+with+Data+Science+and+Innovation;Creating+Beautiful+Web+Solutions+with+Modern+Technologies" alt="Typing SVG" />
-</div>
 
-## 👨‍💻 Who Am I?
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naqeebirtazaakash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naqeebirtazaakash31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naqeeb-irtaza-akash-a19527315) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@zetsu40666) 
 
-👋 Hi, I’m Naqeeb Irtaza Akash, a passionate Software Engineer and a third-year CSE student at Uttara University. My interests lie in C++ programming, data science, and game development. I’m also exploring web development, creating applications like Telegram, and building innovative solutions.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NaqeebIR&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NaqeebIR&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaqeebIR&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-✨ Currently working on:
-Enhancing my C++ and C# skills.
-Developing Porikromon, my Bengali magazine website.
-Exploring e-commerce and Bangla blogging.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NaqeebIR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-💡 Fun facts:
-I enjoy reviewing anime and manga.
-I’m a Bangla romantic novel enthusiast.
-I’m dreaming of pursuing my master’s at Tokyo Institute of Technology.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-📫 Let’s connect and build something amazing together!
-
-## 🚀 Tech Universe
-
-<div align="center">
-
-### Core Languages
-![C++](https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=for-the-badge&logo=cs2&logoColor=white)
-![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Game Development
-<div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 10px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</div>
-
-### Web Technologies
-<div style="background: linear-gradient(45deg, #6B48FF, #FF6B6B); padding: 10px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</div>
-
-### Creative Tools
-<div style="background: linear-gradient(45deg, #FF61D8, #61DBFF); padding: 10px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-</div>
-
-## 📊 Development Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaqeebIR&bg_color=1a1b27&color=a177fe&line=6b48ff&point=ffffff&area=true&hide_border=true" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaqeebIR&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NaqeebIR&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/naqeeb-irtaza-akash-a19527315">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/naqeebirtazaakash">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/naqeebirtazaakash31">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/@zetsu40666">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NaqeebIR&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=NaqeebIR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaqeebIR&color=blueviolet&style=for-the-badge" />
-</div>
-
-<!-- Custom footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
